@@ -1,5 +1,6 @@
 # Alan Ferreira - (README) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alan-ferreira-31a00632/)](https://www.linkedin.com/in/alan-ferreira-31a00632/)
+<a href = "mailto:alan.ferreira@ebanx.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## About this document
 This document is a way of documenting and presenting myself, just like me, it is constantly evolving.
@@ -12,19 +13,17 @@ I have a degree in business administration and statistics, I also have an MBA in
 I runned by companies like: Walmart, PepsiCo, Hotmart, Ferrero, Carrefour and EBANX (currently).
 
 My actual role as a **Corporate Analytics Manager** is:
-* **People.** Attracting, retaining, developing and engaging my team to deliver the best solution via data to the business areas
-* **Team's Culture.** Providing a pleasant and reliable environment where everyone can contribute to creating the best solutions to achieve our **Big Dream**.
-* **Engineering Culture.** Ensuring, along with the team, the stability, flexibility, and reliability of our systems through **Hard Working**.
-* **Execution and Pragmatism.** Driving the team in order to **Focus** on essential tasks.
-* **Understanding Department's Background.** Interacting with colleagues from other departments to generate value for the company and our merchants.
-* **Expand our Operation.** Along with my peers, think strategically about the department and figure out ways to scale up the team and the company operation.
-* **Share Information.** Participating in the strategic decisions of the company and sharing them with the whole team.
+* **Areas focus:** Acttualy, my areas fosut are: People, Risks & Finance Analytics. The three areas together create to we call today as ```Coporate Analytics```
+* **People Management:** Attracting, retaining, developing and engaging my team to deliver the best solution via data to the business areas
+* **Data Strategy:** Developing and implementing a comprehensive data management strategy that aligns with the organization's objectives and goals. This involves defining policies, procedures and standards for data acquisition, storage, quality, integration and security.
+* **Data Governance:** Acting as an advocate for data governance, ensuring that proper processes are in place for making data-related decisions and that best practices are followed.
+* **Team Colaboration:** Incentiving the team workers to act closely with other teams, such as IT, other data analytics teams, data scientists, and business teams, to ensure data requirements are met and data management best practices are adhered to followed. This can include defining data modeling standards, creating efficient workflows for data acquisition and integration, and facilitating collaboration between different stakeholders.
 
 ### My availability
-* Nothing is more important than talking to you, in case you need to talk to me, you can find me by coming to my desk, calling me via Slack, or making an appointment in my schedule.
-* If you hear any rumors and need clarification, I'll be glad to talk to you, do not hesitate to call me.
+* Although I have areas where my work is more present, I am always open to discussions about analytics and data for other areas
+* I like to exchange ideas on different subjects, but in a professional environment, giving and receiving feedback is a positive way to build a good relationship.
 
-### Behaviors that I appreciate
+### Behaviors that I appreciate (continuing)
 * **Self-knowledge.** Self-knowledge is the most important part of your growth.
 * **Critical Thinking.** We can't accept the thought of "we've always done it that way."
 * **Radical Transparency.** It is crucial for creating a safe environment and developing good relationships among colleagues and teams.
