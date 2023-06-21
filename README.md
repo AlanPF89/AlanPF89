@@ -23,23 +23,16 @@ My actual role as a **Corporate Analytics Manager** is:
 * Although I have areas where my work is more present, I am always open to discussions about analytics and data for other areas
 * I like to exchange ideas on different subjects, but in a professional environment, giving and receiving feedback is a positive way to build a good relationship.
 
-### Behaviors that I appreciate (continuing)
-* **Self-knowledge.** Self-knowledge is the most important part of your growth.
-* **Critical Thinking.** We can't accept the thought of "we've always done it that way."
-* **Radical Transparency.** It is crucial for creating a safe environment and developing good relationships among colleagues and teams.
-* **Responsibility.** You are responsible for your choices and your actions. You must take full responsibility.
-* **Empathy.** It is critical to connect with the emotions of our colleagues to form strong teams.
-* **Organization and discipline.** Organization and discipline are fundamental to be able to achieve our objectives.
+### Behaviors that I appreciate 
+* **Critical Thinking:** Look at a process and always ask yourself, "What can I improve on it?" There's always room for improvement.
+* **Transparency:** Be clear and transparent in your statements. Bringing the problem or situation directly is always the best alternative.
+* **Responsibility:** You are responsible for your choices and your actions. You must take full responsibility.
+* **Empathy:** It is critical to connect with the emotions of our colleagues to form strong teams.
+* **Organization and discipline:** Organization and discipline are fundamental to being able to achieve our objectives.
+* **Commitment:** In our day-to-day life, being committed to deadlines and schedules is something that needs to be present. Adverse situations happen, but always remember that your commitment get generated another commitment. If you have assumed any responsibility, make a commitment to deliver.
+* **Balance:** If you ask me what I appreciate most in my personal and professional life, the answer is balance. I believe that balance is the solution to most problems and with an addition, without harming relationships.
 
-### What I would love to see in the team
-* Ownership.
-* Continuous learning.
-* Commitment.
-* Understand the purpose of each objective and task.
-* Foster the engineering culture (look after our system's architecture and code).
-* Help your colleagues grow.
-
-## Mutual collaboration - our development
+## Mutual collaboration - our development (CONTINUING)
 
 ### How can you help me?
 * Perform your work with quality and diligence.
