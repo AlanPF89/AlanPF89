@@ -64,8 +64,7 @@ My actual role as a **Corporate Analytics Manager** is:
 * The management guideline is the meeting where I will bring the main goals to the team (or leadership) and ensure that we are focusing on the most important objective and tasks for the company and the team.
 
 
-## Miscellaneous
+## My interests
 
-### My interests
 * I really enjoy conversations about management and business. I've worked in different HR directly and I've also been a professional in some sectors such as retail, industry, technology, I've even worked in government agencies.
 * I like sports, I'm a padel player and passionate about football, I really like talking about it.
