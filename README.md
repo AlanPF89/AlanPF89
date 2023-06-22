@@ -52,27 +52,19 @@ My actual role as a **Corporate Analytics Manager** is:
 * You do not have to wait to receive feedback. If you want specific feedback, let me know! I will be happy to give you an external point of view.
 * What to do with the feedback received? Reflect on each topic addressed in the feedback critically, then decide whether you will act or not.
 
-## Follow up - individual and teams (continuing)
-### One on One (Individual Meeting - IDP and team) - (monthly ~ 1h)
-* The meeting aims to identify the progress of your individual development plan, in addition to the topics you wanted to bring to discuss with me. I want to hear how you are developing and what your concerns are.
-* A productive individual meeting should impact your team's development and strategy.
-* You must take a few minutes to prepare, so make the most of the meeting time.
-* I believe that ideally a meeting should be held **every 30 or 45 days and last 1 hour**.
+## Follow up - individual and teams 
+### One on One with direct reports (Individual Meeting - IDP and team) - (weekly ~ 1h)
+* The goals of  meeting is identify the progress of your individual development plan, in addition to the topics you wanted to bring to discuss with me. I want to hear how you are developing and what your concerns are.
 
-### Management Help (team's follow up) - (weekly ~ 1h)
-* At this meeting, you will be in the foreground and I will be in the backstage.
-* Length, frequency, format, and content are up to you. Let's start with one hour a week and then adjust the time and format.
-* For this meeting, you must bring an overview of the area, the attention points, the main deliveries in the period, how the team is developing, and how you are taking care of the careers of your team.
+### One on One with indirect reports (Individual Meeting - IDP and team) - (montlhy ~ 1h)
+* The goals of meeting is identify the progress of your individual development plan and, what i can help you in your development. We can discuss technical points and how I can eliminate blocks from your demands. 
 
 ### Management Guideline (area guidance) - (on-demand ~ 30m)
 * The management guideline is the meeting where I will bring the main goals to the team (or leadership) and ensure that we are focusing on the most important objective and tasks for the company and the team.
 
+
 ## Miscellaneous
 
 ### My interests
-* I'm interested in books and I read very often. My favorite categories are strategic management, leadership, people management and behavioral economics. In addition to technical books (architecture and code).
-* I'm interested in string musical instruments.
-* I love coffee and, whenever I can, I go out looking for the best blend.
-
-### What do you think? I would love to get your feedback
-I've never experienced myself as a leader. So if I'm your leader and something here does not seem to make sense, please let me know!
+* I really enjoy conversations about management and business. I've worked in different HR directly and I've also been a professional in some sectors such as retail, industry, technology, I've even worked in government agencies.
+* I like sports, I'm a padel player and passionate about football, I really like talking about it.
